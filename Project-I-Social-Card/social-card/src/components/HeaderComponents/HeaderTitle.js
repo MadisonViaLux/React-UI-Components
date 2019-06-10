@@ -7,7 +7,7 @@ const HeaderTitle = () => {
         <>
             <header>Lambda School</header>
 
-            <date>@LambdaSchool * 26 jan</date>
+            <date>@LambdaSchool · 26 jan</date>
         </>
     );
 };
