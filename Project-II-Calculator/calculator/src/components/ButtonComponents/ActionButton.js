@@ -5,7 +5,7 @@ import './Button.scss';
 const ActionButton = (props) => {
     return (
         < >
-        <button>{props.action}</button>
+        <button className='actionMess'>{props.action}</button>
         </>
     )
 }

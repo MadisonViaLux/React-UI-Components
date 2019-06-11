@@ -3,9 +3,9 @@ import './Display.scss';
 
 const CalculatorDisplay = () => {
     return (
-        < >
+        <>
             <div className="calculator-display">
-                <input type="text"></input>
+                <input type="text" placeholder='0'></input>
             </div>
         </>
     );
