@@ -3,7 +3,7 @@ import './Button.scss';
 
 
 
-const ButtonColor = props => {
+const Style = props => {
     console.log(props);
     return (
         <div>
@@ -12,4 +12,4 @@ const ButtonColor = props => {
     );
 };
 
-export default ButtonColor;
+export default Style;
