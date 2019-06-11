@@ -11,37 +11,37 @@ const App = () => {
     <div className='theWholeThing'>
       <CalculatorDisplay />
 
-      <div className="row1">
+      <div className="row">
         <ActionButton action = "clear"/>
         <ButtonColor text = "÷"/>
       </div>
 
-      <div className="row2">
+      <div className="row">
         <NumberButton text = "7"/>
         <NumberButton text = "8"/>
         <NumberButton text = "9"/>
         <ButtonColor text = "X"/>
       </div>
 
-      <div className="row3">
+      <div className="row">
         <NumberButton text = "4"/>
         <NumberButton text = "5"/>
         <NumberButton text = "6"/>
         <ButtonColor text = "-"/>
       </div>
 
-      <div className="row4">
+      <div className="row">
         <NumberButton text = "1"/>
         <NumberButton text = "2"/>
         <NumberButton text = "3"/>
         <ButtonColor text = "+"/>
       </div>
 
-      <div className="row5">
+      <div className="row">
         <ActionButton action = "0"/>
         <ButtonColor text = "="/>
       </div>
-      
+
     </div>
   );
 };
