@@ -3,10 +3,9 @@ import './Button.scss';
 
 
 const NumberButton = props => {
-    console.log(props);
     return (
         < >
-        <button>{props.text}</button>
+        <button className={props.colorStyle}>{props.text}</button>
         </>
     );
 };

@@ -4,33 +4,34 @@
     margin: 15rem auto;
     width: 500px;
     // border: 1px solid red;
+
+
+    input{
+        width: 99.5%;
+        text-align: end;
+        font-size: 5rem;
+        color: white;
+        background: black;
+    }
 }
 
-input{
-    width: 99.5%;
-    text-align: end;
-    font-size: 5rem;
-    color: white;
-    background: black;
-}
 
-button{
-    padding: 2rem;
-    font-size: 2rem;
-    width: 25%;
-    background-color: white;
-}
+    button{
+        padding: 2rem;
+        font-size: 2rem;
+        width: 25%;
+        background-color: white;
+    }
 
-.actionMess{
-    width: 75%;
-}
+    .actionMess{
+        width: 75%;
+    }
 
-.styleButtons{
-    background-color: red;
-    width: 9rem;
-    font-size: 2.5rem;
-}
 
-.row{
-    display: flex;
-}
+    .thicc-button{
+        background-color: black;
+    }
+
+    .white-numbers{
+        background-color: black;
+    }
