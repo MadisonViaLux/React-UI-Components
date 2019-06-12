@@ -2,7 +2,7 @@ import React from 'react';
 import './App.scss';
 import CalculatorDisplay from "./components/DisplayComponents/CalculatorDisplay";
 import ActionButton from "./components/ButtonComponents/ActionButton";
-import Style from "./components/ButtonComponents/style";
+// import Style from "./components/ButtonComponents/style";
 import NumberButton from "./components/ButtonComponents/NumberButton"
 
 
